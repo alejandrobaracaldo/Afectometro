@@ -1,6 +1,6 @@
 # Afectometro
-El afectometro es un proyecto que busca que busca mirar cuanto le afecta a cada uno y de ahi tener una vmejor toma de desicion.
-se necesita desarrollar las siguyientes herramientas:
+El afectometro es un proyecto que busca la afectacion a cada uno por conflictos y de ahi tener una vmejor toma de desicion.
+se necesita desarrollar las siguyientes herramientas.
 <br>
 > - [ ] Apliocacion Web
 > - [ ] App
