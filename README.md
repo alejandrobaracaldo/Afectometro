@@ -5,3 +5,7 @@ se necesita desarrollar las siguyientes herramientas.
 > - [ ] Apliocacion Web
 > - [ ] App
 > - [ ] Base de datos integrada tanto en web como en App
+# App
+> - [ ] Imput de datos por parte de usuarios.
+> - [ ] Anonimización de los datos
+> - [ ] Informes estadísticos
